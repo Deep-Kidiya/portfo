@@ -69,7 +69,6 @@ html {
 }
 
 .navbar .menu li a {
-    display: none;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
@@ -724,6 +723,7 @@ footer span a:hover {
     }
 
     .navbar .menu li a {
+        display: none;
         display: inline-block;
         margin: 20px 0;
         font-size: 25px;
